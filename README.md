@@ -8,7 +8,7 @@ This script's, whilst small and relatively easy has the purpose to send cold ema
 
 Use this responsibly and do not spam one email or one company. This is to send one email per company.
 
-I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage
+I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly
 
 ## Guide
 

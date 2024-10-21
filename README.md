@@ -16,7 +16,7 @@ Before sending, customize  you HAVE to change the following variables:
     cv_info,  
     filename variable,
     
-    you MUST change the email text in the send_internship_emails function to your own text.
+    you MUST change the email text in the send_internship_emails function to your own text or just change what is within the [] brackets.
     I highly recommend testing by sending it to your own email first.
     run the following command in the terminal to run the script:
     

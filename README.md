@@ -10,7 +10,9 @@ Use this responsibly and do not spam one email or one company. This is to send o
 
 I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly
 
-<git clone https://github.com/tomvlt1/Cold-email-application>
+```
+git clone https://github.com/tomvlt1/Cold-email-application
+```
 
 ## Guide
 

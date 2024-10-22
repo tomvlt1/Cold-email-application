@@ -10,8 +10,10 @@ Use this responsibly and do not spam one email or one company. This is to send o
 
 I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly.
 
-I will update the ReadMe as I receive responses. I ran the script on the LSEUBIG database on 21/10/2024 and have an 11% answer rate (22/10/2024). Out of those 11%, 75% were positive answers moving me on to the next stage (22/10/2024).
+I will update the ReadMe as I receive responses. I ran the script on the LSEUBIG database on 21/10/2024 and have an 12% answer rate (22/10/2024). Out of those 12%, 78% were positive answers moving me on to the next stage (22/10/2024).
 
+As of 22/10/2024
+![Graph](https://github.com/user-attachments/assets/5002e4b9-ddf5-4892-946a-e8630a51c24e)
 
 ```
 git clone https://github.com/tomvlt1/Cold-email-application

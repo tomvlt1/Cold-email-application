@@ -8,7 +8,9 @@ This script's, whilst small and relatively easy has the purpose to send cold ema
 
 Use this responsibly and do not spam one email or one company. This is to send one email per company.
 
-I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly
+I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly.
+
+I will update the ReadMe as I receive responses. I ran the script on the LSEUBIG database on 21/10/2024 and have an 11% answer rate (22/10/2024). Out of those 11%, 75% were positive answers moving me on to the next stage (22/10/2024).
 
 
 ```

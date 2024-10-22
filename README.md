@@ -10,6 +10,7 @@ Use this responsibly and do not spam one email or one company. This is to send o
 
 I provided a database of Finance-related companies based in the UK as an example. This comes from the LSEUBIG webpage. Use responsibly
 
+
 ```
 git clone https://github.com/tomvlt1/Cold-email-application
 ```
@@ -18,17 +19,17 @@ git clone https://github.com/tomvlt1/Cold-email-application
 
 Before sending, customize  you HAVE to change the following variables:
     
-    sender_email, 
-    password,  <- This isnt your email password but one you must create within your google account settings for application use
-    cv_info,  
-    filename variable,
+sender_email, 
+password,  <- This isnt your email password but one you must create within your google account settings for application use
+cv_info,  
+filename variable,
     
-    you MUST change the email text in the send_internship_emails function to your own text or just change what is within the [] brackets.
-    I highly recommend testing by sending it to your own email first.
-    run the following command in the terminal to run the script:
+you MUST change the email text in the send_internship_emails function to your own text or just change what is within the [] brackets.
+I highly recommend testing by sending it to your own email first.
+run the following command in the terminal to run the script:
     
-    export OPENAI_API_KEY= "OpenAI project API key" <- enter your own API key
-    then
-    python application_public.py 
+export OPENAI_API_KEY= "OpenAI project API key" <- enter your own API key
+then
+python application_public.py 
     
-    You can change the gpt model in the generate_custom_message function to any other model or prompt you want.
+You can change the gpt model in the generate_custom_message function to any other model or prompt you want.
